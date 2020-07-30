@@ -12,10 +12,10 @@
 #include <utility>
 #include <vector>
 
-#include "base/message_loop/message_loop_current.h"
 #include "base/no_destructor.h"
 #include "base/optional.h"
 #include "base/strings/utf_string_conversions.h"
+#include "base/task/current_thread.h"
 #include "base/threading/thread_restrictions.h"
 #include "base/threading/thread_task_runner_handle.h"
 #include "base/values.h"
@@ -1413,6 +1413,11 @@ bool WebContents::OnMessageReceived(const IPC::Message& message) {
 // we need to make sure the api::WebContents is also deleted.
 // For #4, the WebContents will be destroyed by embedder.
 void WebContents::WebContentsDestroyed() {
+  // Give chance for guest delegate to cleanup its observers
+  // since the native class is only destroyed in the next tick.
+  if (guest_delegate_)
+    guest_delegate_->WillDestroy();
+
   // Cleanup relationships with other parts.
   RemoveFromWeakMap();
 
@@ -2398,7 +2403,7 @@ void WebContents::StartDrag(const gin_helper::Dictionary& item,
 
   // Start dragging.
   if (!files.empty()) {
-    base::MessageLoopCurrent::ScopedNestableTaskAllower allow;
+    base::CurrentThread::ScopedNestableTaskAllower allow;
     DragFileItems(files, icon->image(), web_contents()->GetNativeView());
   } else {
     gin_helper::ErrorThrower(args->isolate())
