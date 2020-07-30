@@ -295,7 +295,6 @@ void BaseWindow::OnNewWindowForTab() {
 
 #if defined(OS_WIN)
 void BaseWindow::OnWindowMessage(UINT message, WPARAM w_param, LPARAM l_param) {
-  LOG(INFO) << "GOT MESSAGE " << (int)message;
   if (IsWindowMessageHooked(message)) {
     messages_callback_map_[message].Run(
         ToBuffer(isolate(), static_cast<void*>(&w_param), sizeof(WPARAM)),
