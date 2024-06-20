@@ -2,7 +2,7 @@ repo_name: rlfagan/electron
 report_id: 1a181ded2f2e303770ada06b1786d83e
 version: 0.1
 repo_type: Public
-timestamp: '2024-06-20T23:03:06+00:00'
+timestamp: '2024-06-20T23:13:53+00:00'
 requested_by: sentialx
 provider: github
 branch: master
@@ -106,8 +106,6 @@ tools:
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Cheng Zhao
-  last_updated_on: 2013-04-14 14:48:35.000000000 Z
 - name: Echo
   description: High performance, extensible, minimalist Go web framework
   website_url: https://echo.labstack.com
@@ -119,8 +117,6 @@ tools:
   image_url: https://img.stackshare.io/service/4996/9P0MlumU_400x400.jpg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/package.json
   detection_source: spec-main/package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2019-03-10 22:38:44.000000000 Z
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
     fast, flexible, and simple
@@ -134,8 +130,6 @@ tools:
   image_url: https://img.stackshare.io/service/1163/hashtag.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -147,8 +141,6 @@ tools:
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/npm/package.json
   detection_source: npm/package.json
-  last_updated_by: Mathias Buus
-  last_updated_on: 2014-10-20 04:17:38.000000000 Z
 - name: ws
   description: A Node.js WebSocket library
   website_url: https://github.com/websockets/ws
@@ -160,8 +152,6 @@ tools:
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/package.json
   detection_source: spec-main/package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2019-03-10 22:38:44.000000000 Z
 - name: Appveyor
   description: Continuous Integration and Deployment service for busy Windows developers
   website_url: http://www.appveyor.com/
@@ -172,8 +162,6 @@ tools:
   image_url: https://img.stackshare.io/service/2011/5s66pnbt5v8tw6most5e.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/package.json
   detection_source: spec/package.json
-  last_updated_by: Jeremy Apthorp
-  last_updated_on: 2019-07-25 18:30:56.000000000 Z
 - name: Chai
   description: A BDD / TDD assertion library
   website_url: http://chaijs.com/
@@ -186,8 +174,6 @@ tools:
   image_url: https://img.stackshare.io/service/1725/chai.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: package.json
-  last_updated_by: Cheng Zhao
-  last_updated_on: 2013-04-14 14:48:35.000000000 Z
 - name: CircleCI
   description: Automate your development process quickly, safely, and at scale
   website_url: https://circleci.com/
@@ -198,8 +184,6 @@ tools:
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-17 16:08:44.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
@@ -211,8 +195,6 @@ tools:
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Cheng Zhao
-  last_updated_on: 2013-04-14 14:48:35.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -236,8 +218,6 @@ tools:
   image_url: https://img.stackshare.io/service/832/mocha.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 04:19:49.000000000 Z
 - name: NuGet
   description: The package manager for .NET
   website_url: https://www.nuget.org/
@@ -248,8 +228,6 @@ tools:
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Cheng Zhao
-  last_updated_on: 2013-04-14 14:48:35.000000000 Z
 - name: Octokit
   description: GitHub API Client Library for .NET
   website_url: https://github.com/octokit/octokit.net
@@ -260,8 +238,6 @@ tools:
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2019-01-21 22:46:32.000000000 Z
 - name: SinonJS
   description: Standalone test spies, stubs and mocks for JavaScript
   website_url: http://sinonjs.org/
@@ -273,8 +249,6 @@ tools:
   image_url: https://img.stackshare.io/service/3509/logo.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Charles Kerr
-  last_updated_on: 2020-06-08 18:39:44.000000000 Z
 - name: Split
   description: Split provides a unified solution for feature flags and experimentation
   website_url: http://www.split.io
@@ -285,8 +259,6 @@ tools:
   image_url: https://img.stackshare.io/service/6588/default_2be28faff45ce2d9a308cf9c36820697303a7c11.jpg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/package.json
   detection_source: spec/package.json
-  last_updated_by: Jeremy Apthorp
-  last_updated_on: 2019-03-12 15:56:28.000000000 Z
 - name: Webpack
   description: A bundler for javascript and friends
   website_url: http://webpack.js.org
@@ -299,8 +271,6 @@ tools:
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 08:05:16.000000000 Z
 - name: Yarn
   description: A new package manager for JavaScript
   website_url: https://yarnpkg.com/
@@ -311,8 +281,6 @@ tools:
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/yarn.lock
-  last_updated_by: Jeremy Apthorp
-  last_updated_on: 2019-10-09 23:33:15.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -323,8 +291,6 @@ tools:
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/package.json
   detection_source: spec/package.json
-  last_updated_by: Cheng Zhao
-  last_updated_on: 2013-07-17 08:28:14.000000000 Z
 - name: PDF.js
   description: A general-purpose, web standards-based platform for parsing and rendering
     PDFs
@@ -336,8 +302,6 @@ tools:
   image_url: https://img.stackshare.io/service/8249/60c1d8501e4deb4a0f77f7f2fe145633_400x400.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/package.json
   detection_source: spec-main/package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2019-03-10 22:38:44.000000000 Z
 - name: PowerShell
   description: A task automation and configuration management framework
   website_url: https://docs.microsoft.com/en-us/powershell/
@@ -360,8 +324,6 @@ tools:
   image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2019-03-10 22:38:44.000000000 Z
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
     files. Shell scripts typically manage program execution.
@@ -380,8 +342,6 @@ tools:
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Naoki Maeda
-  last_updated_on: 2019-05-22 21:03:06.000000000 Z
 - name: lint-staged
   website_url: https://github.com/okonet/lint-staged
   open_source: false
@@ -389,8 +349,6 @@ tools:
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
   detection_source_url: https://github.com/rlfagan/electron/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: minimist
   description: Parse argument options
   package_url: https://www.npmjs.com/minimist
@@ -403,8 +361,6 @@ tools:
   image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 23:32:21.000000000 Z
   vulnerabilities:
   - name: Prototype Pollution in minimist
     cve_id: CVE-2021-44906
@@ -424,8 +380,6 @@ tools:
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
   vulnerabilities:
   - name: qs vulnerable to Prototype Pollution
     cve_id: CVE-2022-24999
@@ -451,8 +405,6 @@ tools:
   image_url: https://img.stackshare.io/package/18053/image.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Shelley Vohr
-  last_updated_on: 2020-01-30 20:12:35.000000000 Z
   vulnerabilities:
   - name: PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious
       PDF
@@ -473,8 +425,6 @@ tools:
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 23:32:21.000000000 Z
   vulnerabilities:
   - name: Server-Side Request Forgery in Request
     cve_id: CVE-2023-28155
@@ -494,8 +444,6 @@ tools:
   image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
   vulnerabilities:
   - name: semver vulnerable to Regular Expression Denial of Service
     cve_id: CVE-2022-25883
@@ -515,8 +463,6 @@ tools:
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2019-01-21 22:46:32.000000000 Z
 - name: "@types/chai"
   description: TypeScript definitions for chai
   package_url: https://www.npmjs.com/@types/chai
@@ -529,8 +475,6 @@ tools:
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/chai-as-promised"
   description: TypeScript definitions for chai-as-promised
   package_url: https://www.npmjs.com/@types/chai-as-promised
@@ -543,8 +487,6 @@ tools:
   image_url: https://img.stackshare.io/package/16527/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/express"
   description: TypeScript definitions for Express
   package_url: https://www.npmjs.com/@types/express
@@ -557,8 +499,6 @@ tools:
   image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/fs-extra"
   description: TypeScript definitions for fs-extra
   package_url: https://www.npmjs.com/@types/fs-extra
@@ -571,8 +511,6 @@ tools:
   image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/mocha"
   description: TypeScript definitions for mocha
   package_url: https://www.npmjs.com/@types/mocha
@@ -585,8 +523,6 @@ tools:
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/node"
   description: TypeScript definitions for Node.js
   package_url: https://www.npmjs.com/@types/node
@@ -599,8 +535,6 @@ tools:
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: npm/package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2019-07-03 23:36:59.000000000 Z
 - name: "@types/semver"
   description: TypeScript definitions for semver
   package_url: https://www.npmjs.com/@types/semver
@@ -613,8 +547,6 @@ tools:
   image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/sinon"
   description: TypeScript definitions for Sinon
   package_url: https://www.npmjs.com/@types/sinon
@@ -627,8 +559,6 @@ tools:
   image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Charles Kerr
-  last_updated_on: 2020-06-08 18:39:44.000000000 Z
 - name: "@types/uuid"
   description: TypeScript definitions for uuid
   package_url: https://www.npmjs.com/@types/uuid
@@ -641,8 +571,6 @@ tools:
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/webpack"
   description: TypeScript definitions for webpack
   package_url: https://www.npmjs.com/@types/webpack
@@ -655,8 +583,6 @@ tools:
   image_url: https://img.stackshare.io/package/16215/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/webpack-env"
   description: TypeScript definitions for webpack
   package_url: https://www.npmjs.com/@types/webpack-env
@@ -669,8 +595,6 @@ tools:
   image_url: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@types/ws"
   description: TypeScript definitions for ws
   package_url: https://www.npmjs.com/@types/ws
@@ -683,8 +607,6 @@ tools:
   image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Charles Kerr
-  last_updated_on: 2020-06-08 18:39:44.000000000 Z
 - name: "@typescript-eslint/eslint-plugin"
   description: TypeScript plugin for ESLint
   package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
@@ -697,8 +619,6 @@ tools:
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: "@typescript-eslint/parser"
   description: An ESLint custom parser which leverages TypeScript ESTree
   package_url: https://www.npmjs.com/@typescript-eslint/parser
@@ -711,8 +631,6 @@ tools:
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: basic-auth
   description: Node.js basic auth parser
   package_url: https://www.npmjs.com/basic-auth
@@ -725,8 +643,6 @@ tools:
   image_url: https://img.stackshare.io/package/17338/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: spec/package.json
-  last_updated_by: Charles Kerr
-  last_updated_on: 2019-02-11 19:12:13.000000000 Z
 - name: busboy
   description: A streaming parser for HTML form data for node.js
   package_url: https://www.npmjs.com/busboy
@@ -739,8 +655,6 @@ tools:
   image_url: https://img.stackshare.io/package/17905/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Jeremy Apthorp
-  last_updated_on: 2020-04-22 22:53:12.000000000 Z
 - name: chai-as-promised
   description: Extends Chai with assertions about promises
   package_url: https://www.npmjs.com/chai-as-promised
@@ -753,8 +667,6 @@ tools:
   image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Shelley Vohr
-  last_updated_on: 2020-01-30 20:12:35.000000000 Z
 - name: colors
   description: Get colors in your node.js console
   package_url: https://www.npmjs.com/colors
@@ -767,8 +679,6 @@ tools:
   image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 23:32:21.000000000 Z
 - name: dirty-chai
   description: Extends Chai with lint-friendly terminating assertions
   package_url: https://www.npmjs.com/dirty-chai
@@ -781,8 +691,6 @@ tools:
   image_url: https://img.stackshare.io/package/16853/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec-main/yarn.lock
   detection_source: spec-main/package.json
-  last_updated_by: Shelley Vohr
-  last_updated_on: 2020-01-30 20:12:35.000000000 Z
 - name: eslint-config-standard
   description: JavaScript Standard Style - ESLint Shareable Config
   package_url: https://www.npmjs.com/eslint-config-standard
@@ -795,8 +703,6 @@ tools:
   image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: eslint-plugin-import
   description: Import with sanity
   package_url: https://www.npmjs.com/eslint-plugin-import
@@ -809,8 +715,6 @@ tools:
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: eslint-plugin-mocha
   description: Eslint rules for mocha
   package_url: https://www.npmjs.com/eslint-plugin-mocha
@@ -823,8 +727,6 @@ tools:
   image_url: https://img.stackshare.io/package/16194/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: eslint-plugin-node
   description: Additional ESLint's rules for Node.js
   package_url: https://www.npmjs.com/eslint-plugin-node
@@ -837,8 +739,6 @@ tools:
   image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: eslint-plugin-standard
   description: ESlint Plugin for the Standard Linter
   package_url: https://www.npmjs.com/eslint-plugin-standard
@@ -851,8 +751,6 @@ tools:
   image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: eslint-plugin-typescript
   description: TypeScript plugin for ESLint
   package_url: https://www.npmjs.com/eslint-plugin-typescript
@@ -865,8 +763,6 @@ tools:
   image_url: https://img.stackshare.io/package/17077/default_43f23668e39c9b3381720c9c76540776b8a49167.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: extract-zip
   description: Unzip a zip file into a directory using 100% javascript
   package_url: https://www.npmjs.com/extract-zip
@@ -879,8 +775,6 @@ tools:
   image_url: https://img.stackshare.io/package/17488/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/npm/package.json
   detection_source: npm/package.json
-  last_updated_by: Zeke Sikelianos
-  last_updated_on: 2017-05-11 06:38:51.000000000 Z
 - name: fs-extra
   description: Fs-extra contains methods that aren't included in the vanilla Node.js
     fs package
@@ -894,8 +788,6 @@ tools:
   image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:57:50.000000000 Z
 - name: graceful-fs
   description: A drop-in replacement for fs, making various improvements
   package_url: https://www.npmjs.com/graceful-fs
@@ -908,8 +800,6 @@ tools:
   image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: spec/package.json
-  last_updated_by: Charles Kerr
-  last_updated_on: 2019-02-11 19:12:13.000000000 Z
 - name: husky
   description: Prevents bad commit or push
   package_url: https://www.npmjs.com/husky
@@ -922,8 +812,6 @@ tools:
   image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Naoki Maeda
-  last_updated_on: 2019-05-22 21:03:06.000000000 Z
 - name: klaw
   description: File system walker with Readable stream interface
   package_url: https://www.npmjs.com/klaw
@@ -936,8 +824,6 @@ tools:
   image_url: https://img.stackshare.io/package/18501/default_e81b0bd76811f164978fa6f4c4f71e0f1ccf1507.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Mark Lee
-  last_updated_on: 2019-02-26 02:25:00.000000000 Z
 - name: lint-staged
   description: Lint files staged by git
   package_url: https://www.npmjs.com/lint-staged
@@ -950,8 +836,6 @@ tools:
   image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: mkdirp
   description: Recursively mkdir, like `mkdir -p`
   package_url: https://www.npmjs.com/mkdirp
@@ -964,8 +848,6 @@ tools:
   image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: spec/package.json
-  last_updated_by: Charles Kerr
-  last_updated_on: 2019-02-11 19:12:13.000000000 Z
 - name: mocha-junit-reporter
   description: A JUnit reporter for mocha
   package_url: https://www.npmjs.com/mocha-junit-reporter
@@ -978,8 +860,6 @@ tools:
   image_url: https://img.stackshare.io/package/16739/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: spec/package.json
-  last_updated_by: Jeremy Apthorp
-  last_updated_on: 2019-07-25 18:30:56.000000000 Z
 - name: null-loader
   description: A webpack loader that returns an empty module
   package_url: https://www.npmjs.com/null-loader
@@ -992,8 +872,6 @@ tools:
   image_url: https://img.stackshare.io/package/16787/default_6c86c81e45e0f08d11e77cb7e07388a0317cf081.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 08:05:16.000000000 Z
 - name: remark-cli
   description: CLI to process Markdown with remark using plugins
   package_url: https://www.npmjs.com/remark-cli
@@ -1006,8 +884,6 @@ tools:
   image_url: https://img.stackshare.io/package/16755/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 17:18:49.000000000 Z
 - name: send
   description: Better streaming static file server with Range and conditional-GET
     support
@@ -1021,8 +897,6 @@ tools:
   image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: spec/package.json
-  last_updated_by: Shelley Vohr
-  last_updated_on: 2018-05-22 04:15:18.000000000 Z
 - name: shx
   description: Portable Shell Commands for Node
   package_url: https://www.npmjs.com/shx
@@ -1035,8 +909,6 @@ tools:
   image_url: https://img.stackshare.io/package/16496/default_55f3303d620c93eecbee69c43373d484f2be492f.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Cheng Zhao
-  last_updated_on: 2013-04-14 14:48:35.000000000 Z
 - name: temp
   description: Temporary files and directories
   package_url: https://www.npmjs.com/temp
@@ -1049,8 +921,6 @@ tools:
   image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: package.json
-  last_updated_by: Jeremy Apthorp
-  last_updated_on: 2019-10-14 21:38:54.000000000 Z
 - name: ts-loader
   description: TypeScript loader for webpack
   package_url: https://www.npmjs.com/ts-loader
@@ -1063,8 +933,6 @@ tools:
   image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 08:05:16.000000000 Z
 - name: ts-node
   description: TypeScript execution environment and REPL for node.js
   package_url: https://www.npmjs.com/ts-node
@@ -1077,8 +945,6 @@ tools:
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 08:05:16.000000000 Z
 - name: uuid
   description: RFC4122
   package_url: https://www.npmjs.com/uuid
@@ -1091,8 +957,6 @@ tools:
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: spec/package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-02-20 23:19:06.000000000 Z
 - name: webpack-cli
   description: CLI for webpack &amp; friends
   package_url: https://www.npmjs.com/webpack-cli
@@ -1105,8 +969,6 @@ tools:
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Samuel Attard
-  last_updated_on: 2020-07-09 08:05:16.000000000 Z
 - name: yargs
   description: Yargs the modern, pirate-themed, successor to optimist
   package_url: https://www.npmjs.com/yargs
@@ -1119,5 +981,3 @@ tools:
   image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
   detection_source_url: https://github.com/rlfagan/electron/blob/master/spec/yarn.lock
   detection_source: spec/package.json
-  last_updated_by: Charles Kerr
-  last_updated_on: 2019-02-11 19:12:13.000000000 Z
