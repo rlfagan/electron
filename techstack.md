@@ -373,55 +373,55 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[minimist](https://www.npmjs.com/minimist)|v1.2.5|07/09/20|Samuel Attard |MIT|[CVE-2021-44906](https://github.com/advisories/GHSA-xvch-5gv4-984h) (Critical)|
-|[express](https://www.npmjs.com/express)|v4.17.1|07/09/20|Samuel Attard |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)<br/>[CVE-2024-29041](https://github.com/advisories/GHSA-rv95-896h-c2vc) (Moderate)|
-|[pdfjs-dist](https://www.npmjs.com/pdfjs-dist)|v2.2.228|01/30/20|Shelley Vohr |Apache-2.0|[CVE-2024-4367](https://github.com/advisories/GHSA-wgrm-67xf-hhpq) (High)|
-|[request](https://www.npmjs.com/request)|v2.88.0|07/09/20|Samuel Attard |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
-|[semver](https://www.npmjs.com/semver)|v5.7.0|07/09/20|Samuel Attard |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
-|[@octokit/rest](https://www.npmjs.com/@octokit/rest)|v16.28.2|01/21/19|Samuel Attard |MIT|N/A|
-|[@types/chai](https://www.npmjs.com/@types/chai)|v4.1.7|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/chai-as-promised](https://www.npmjs.com/@types/chai-as-promised)|v7.1.1|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/express](https://www.npmjs.com/@types/express)|v4.17.7|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/fs-extra](https://www.npmjs.com/@types/fs-extra)|v9.0.1|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/mocha](https://www.npmjs.com/@types/mocha)|v7.0.2|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/node](https://www.npmjs.com/@types/node)|v13.7.0|07/03/19|Samuel Attard |MIT|N/A|
-|[@types/semver](https://www.npmjs.com/@types/semver)|v7.3.1|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/sinon](https://www.npmjs.com/@types/sinon)|v9.0.4|06/08/20|Charles Kerr |MIT|N/A|
-|[@types/uuid](https://www.npmjs.com/@types/uuid)|v3.4.6|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/webpack](https://www.npmjs.com/@types/webpack)|v4.41.21|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/webpack-env](https://www.npmjs.com/@types/webpack-env)|v1.15.2|07/09/20|Samuel Attard |MIT|N/A|
-|[@types/ws](https://www.npmjs.com/@types/ws)|v7.2.1|06/08/20|Charles Kerr |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v3.6.0|07/09/20|Samuel Attard |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v3.6.0|07/09/20|Samuel Attard |BSD-2-Clause|N/A|
-|[basic-auth](https://www.npmjs.com/basic-auth)|v2.0.1|02/11/19|Charles Kerr |MIT|N/A|
-|[busboy](https://www.npmjs.com/busboy)|v0.3.1|04/22/20|Jeremy Apthorp |MIT|N/A|
-|[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|01/30/20|Shelley Vohr |WTFPL|N/A|
-|[colors](https://www.npmjs.com/colors)|v1.3.3|07/09/20|Samuel Attard |MIT|N/A|
-|[dirty-chai](https://www.npmjs.com/dirty-chai)|v2.0.1|01/30/20|Shelley Vohr |MIT|N/A|
-|[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v14.1.1|07/09/20|Samuel Attard |MIT|N/A|
-|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.22.0|07/09/20|Samuel Attard |MIT|N/A|
-|[eslint-plugin-mocha](https://www.npmjs.com/eslint-plugin-mocha)|v7.0.1|07/09/20|Samuel Attard |MIT|N/A|
-|[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|07/09/20|Samuel Attard |MIT|N/A|
-|[eslint-plugin-standard](https://www.npmjs.com/eslint-plugin-standard)|v4.0.1|07/09/20|Samuel Attard |MIT|N/A|
-|[eslint-plugin-typescript](https://www.npmjs.com/eslint-plugin-typescript)|v0.14.0|07/09/20|Samuel Attard |MIT|N/A|
-|[extract-zip](https://www.npmjs.com/extract-zip)|v1.0.3|05/11/17|Zeke Sikelianos |BSD-2-Clause|N/A|
-|[fs-extra](https://www.npmjs.com/fs-extra)|v7.0.1|07/09/20|Samuel Attard |MIT|N/A|
-|[graceful-fs](https://www.npmjs.com/graceful-fs)|v4.1.15|02/11/19|Charles Kerr |ISC|N/A|
-|[husky](https://www.npmjs.com/husky)|v2.7.0|05/22/19|Naoki Maeda |MIT|N/A|
-|[klaw](https://www.npmjs.com/klaw)|v3.0.0|02/26/19|Mark Lee |MIT|N/A|
-|[lint-staged](https://www.npmjs.com/lint-staged)|v10.2.11|07/09/20|Samuel Attard |MIT|N/A|
-|[mkdirp](https://www.npmjs.com/mkdirp)|v0.5.1|02/11/19|Charles Kerr |MIT|N/A|
-|[mocha-junit-reporter](https://www.npmjs.com/mocha-junit-reporter)|v1.22.0|07/25/19|Jeremy Apthorp |MIT|N/A|
-|[null-loader](https://www.npmjs.com/null-loader)|v4.0.0|07/09/20|Samuel Attard |MIT|N/A|
-|[remark-cli](https://www.npmjs.com/remark-cli)|v4.0.0|07/09/20|Samuel Attard |MIT|N/A|
-|[send](https://www.npmjs.com/send)|v0.16.2|05/22/18|Shelley Vohr |MIT|N/A|
-|[shx](https://www.npmjs.com/shx)|v0.3.2|04/14/13|Cheng Zhao |MIT|N/A|
-|[temp](https://www.npmjs.com/temp)|v0.9.0|10/14/19|Jeremy Apthorp |MIT|N/A|
-|[ts-loader](https://www.npmjs.com/ts-loader)|v7.0.5|07/09/20|Samuel Attard |MIT|N/A|
-|[ts-node](https://www.npmjs.com/ts-node)|v6.2.0|07/09/20|Samuel Attard |MIT|N/A|
-|[uuid](https://www.npmjs.com/uuid)|v3.3.2|02/20/20|Samuel Attard |MIT|N/A|
-|[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.12|07/09/20|Samuel Attard |MIT|N/A|
-|[yargs](https://www.npmjs.com/yargs)|v12.0.5|02/11/19|Charles Kerr |MIT|N/A|
+|[minimist](https://www.npmjs.com/minimist)|v1.2.5|N/A|N/A |MIT|[CVE-2021-44906](https://github.com/advisories/GHSA-xvch-5gv4-984h) (Critical)|
+|[express](https://www.npmjs.com/express)|v4.17.1|N/A|N/A |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)<br/>[CVE-2024-29041](https://github.com/advisories/GHSA-rv95-896h-c2vc) (Moderate)|
+|[pdfjs-dist](https://www.npmjs.com/pdfjs-dist)|v2.2.228|N/A|N/A |Apache-2.0|[CVE-2024-4367](https://github.com/advisories/GHSA-wgrm-67xf-hhpq) (High)|
+|[request](https://www.npmjs.com/request)|v2.88.0|N/A|N/A |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
+|[semver](https://www.npmjs.com/semver)|v5.7.0|N/A|N/A |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
+|[@octokit/rest](https://www.npmjs.com/@octokit/rest)|v16.28.2|N/A|N/A |MIT|N/A|
+|[@types/chai](https://www.npmjs.com/@types/chai)|v4.1.7|N/A|N/A |MIT|N/A|
+|[@types/chai-as-promised](https://www.npmjs.com/@types/chai-as-promised)|v7.1.1|N/A|N/A |MIT|N/A|
+|[@types/express](https://www.npmjs.com/@types/express)|v4.17.7|N/A|N/A |MIT|N/A|
+|[@types/fs-extra](https://www.npmjs.com/@types/fs-extra)|v9.0.1|N/A|N/A |MIT|N/A|
+|[@types/mocha](https://www.npmjs.com/@types/mocha)|v7.0.2|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v13.7.0|N/A|N/A |MIT|N/A|
+|[@types/semver](https://www.npmjs.com/@types/semver)|v7.3.1|N/A|N/A |MIT|N/A|
+|[@types/sinon](https://www.npmjs.com/@types/sinon)|v9.0.4|N/A|N/A |MIT|N/A|
+|[@types/uuid](https://www.npmjs.com/@types/uuid)|v3.4.6|N/A|N/A |MIT|N/A|
+|[@types/webpack](https://www.npmjs.com/@types/webpack)|v4.41.21|N/A|N/A |MIT|N/A|
+|[@types/webpack-env](https://www.npmjs.com/@types/webpack-env)|v1.15.2|N/A|N/A |MIT|N/A|
+|[@types/ws](https://www.npmjs.com/@types/ws)|v7.2.1|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v3.6.0|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v3.6.0|N/A|N/A |BSD-2-Clause|N/A|
+|[basic-auth](https://www.npmjs.com/basic-auth)|v2.0.1|N/A|N/A |MIT|N/A|
+|[busboy](https://www.npmjs.com/busboy)|v0.3.1|N/A|N/A |MIT|N/A|
+|[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|N/A|N/A |WTFPL|N/A|
+|[colors](https://www.npmjs.com/colors)|v1.3.3|N/A|N/A |MIT|N/A|
+|[dirty-chai](https://www.npmjs.com/dirty-chai)|v2.0.1|N/A|N/A |MIT|N/A|
+|[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v14.1.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.22.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-mocha](https://www.npmjs.com/eslint-plugin-mocha)|v7.0.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-standard](https://www.npmjs.com/eslint-plugin-standard)|v4.0.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-typescript](https://www.npmjs.com/eslint-plugin-typescript)|v0.14.0|N/A|N/A |MIT|N/A|
+|[extract-zip](https://www.npmjs.com/extract-zip)|v1.0.3|N/A|N/A |BSD-2-Clause|N/A|
+|[fs-extra](https://www.npmjs.com/fs-extra)|v7.0.1|N/A|N/A |MIT|N/A|
+|[graceful-fs](https://www.npmjs.com/graceful-fs)|v4.1.15|N/A|N/A |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v2.7.0|N/A|N/A |MIT|N/A|
+|[klaw](https://www.npmjs.com/klaw)|v3.0.0|N/A|N/A |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.2.11|N/A|N/A |MIT|N/A|
+|[mkdirp](https://www.npmjs.com/mkdirp)|v0.5.1|N/A|N/A |MIT|N/A|
+|[mocha-junit-reporter](https://www.npmjs.com/mocha-junit-reporter)|v1.22.0|N/A|N/A |MIT|N/A|
+|[null-loader](https://www.npmjs.com/null-loader)|v4.0.0|N/A|N/A |MIT|N/A|
+|[remark-cli](https://www.npmjs.com/remark-cli)|v4.0.0|N/A|N/A |MIT|N/A|
+|[send](https://www.npmjs.com/send)|v0.16.2|N/A|N/A |MIT|N/A|
+|[shx](https://www.npmjs.com/shx)|v0.3.2|N/A|N/A |MIT|N/A|
+|[temp](https://www.npmjs.com/temp)|v0.9.0|N/A|N/A |MIT|N/A|
+|[ts-loader](https://www.npmjs.com/ts-loader)|v7.0.5|N/A|N/A |MIT|N/A|
+|[ts-node](https://www.npmjs.com/ts-node)|v6.2.0|N/A|N/A |MIT|N/A|
+|[uuid](https://www.npmjs.com/uuid)|v3.3.2|N/A|N/A |MIT|N/A|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.12|N/A|N/A |MIT|N/A|
+|[yargs](https://www.npmjs.com/yargs)|v12.0.5|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
